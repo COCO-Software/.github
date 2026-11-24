@@ -1,4 +1,4 @@
-<img src="https://github.com/COCO-Software/.github/raw/main/assets/coco-logo-full.png" alt="COCO Software" height="64">
+<img src="https://github.com/COCO-Software/.github/raw/main/coco-logo-full.png" alt="COCO Software" height="64">
 
 ### Web, mobile and internal-tool development. Built properly.
 
